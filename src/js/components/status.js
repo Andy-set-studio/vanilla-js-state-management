@@ -1,4 +1,4 @@
-import Component from '../helpers/component.js';
+import Component from '../lib/component.js';
 import store from '../store/index.js';
 
 export default class Status extends Component {
