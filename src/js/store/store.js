@@ -103,7 +103,7 @@ export default class Store {
         // Run a quick check to see if this mutation actually exists
         // before trying to run it
         if(typeof self.mutations[mutationKey] !== 'function') {
-            console.log(`Mutation "${mutationKey}" doesn't exist mate`);
+            console.log(`Mutation "${mutationKey}" doesn't exist`);
             return false;
         }
         
