@@ -67,6 +67,10 @@ h1, h2 {
     font-weight: 300;
 }
 
+.intro__summary b {
+    font-weight: 500;
+}
+
 /**
 * App 
 */
