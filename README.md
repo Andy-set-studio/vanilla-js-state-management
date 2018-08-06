@@ -1,3 +1,7 @@
+🎉 **You can now find a packaged version of this called [Beedle](https://github.com/hankchizljaw/beedle)** 🎉
+
+***
+
 # Vanilla JavaScript state management
 
 This is the finished product of this [CSS-Tricks tutorial](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript). It's full of code comments so you can really dig in and learn too. 
